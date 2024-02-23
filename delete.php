@@ -3,7 +3,7 @@
 // The $_GET superglobal array in PHP is used to collect data sent in the URL's query string.
 // Here, we're checking if the 'id' key is set in the URL query string.
 // For example, in the URL 'delete.php?id=123', 'id' is a parameter in the query string.
-// The isset() function checks whether the 'id' parameter exists and has a value.
+// The isset() function checks whether the 'id' parameter exists and has a value
 if (isset($_GET['id'])) {
     // If 'id' is set, the script continues here.
     // We then retrieve the value associated with 'id' from the query string and store it in the $id variable.

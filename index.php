@@ -10,9 +10,9 @@
             background-color: green; 
         }
         .navbar-custom .navbar-brand {
-            color: white; /* Text color for the brand name */
+            color: white; 
             margin: auto; /* Centers the brand name horizontally */
-            font-weight: bold; /* Makes the brand name text bold */
+            font-weight: bold; 
         }
     </style>
 </head>

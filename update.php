@@ -4,7 +4,6 @@ $username = "root";
 $password = "";
 $database = "crud";
 
-// Create connection
 $connection = new mysqli($servername, $username, $password, $database);
 
 // Initialize variables

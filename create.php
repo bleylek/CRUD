@@ -66,7 +66,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         } else {
             $errorMessage = "Could not prepare SQL statement.";
         }
-    } while (false); // End of do-while loop
+    } while (false); 
 }
 ?>
 
@@ -85,7 +85,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         .navbar-custom .navbar-brand {
             color: white; /* Changes the brand text color */
             margin: auto; /* Centers the navbar brand */
-            font-weight: bold; /* Makes the brand text bold */
+            font-weight: bold; 
         }
     </style>
 </head>
