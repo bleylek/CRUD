@@ -80,7 +80,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
     <style>
         .navbar-custom {
-            background-color: green; /* Customizes the navbar background color */
+            background-color: green; 
         }
         .navbar-custom .navbar-brand {
             color: white; /* Changes the brand text color */

@@ -12,7 +12,7 @@ if (isset($_GET['id'])) {
     // Not checking for 'id' could lead to unpredictable behavior or errors since the deletion query requires a specific 'id'.
     $id = $_GET["id"];
 
-    // Database server connection parameters
+    
     $servername = "localhost";
     $username = "root";
     $password = "";

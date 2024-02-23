@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
     <style>
         .navbar-custom {
-            background-color: green; /* Custom background color for navbar */
+            background-color: green; 
         }
         .navbar-custom .navbar-brand {
             color: white; /* Text color for the brand name */
