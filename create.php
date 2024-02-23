@@ -1,9 +1,8 @@
 <?php
-// Initialize variables to hold connection parameters
-$servername = "localhost"; // The hostname of the database server
-$username = "root"; // The database username
-$password = ""; // The database password
-$database = "crud"; // The name of the database
+$servername = "localhost"; 
+$username = "root"; 
+$password = ""; 
+$database = "crud"; 
 
 // Create a connection to the MySQL database
 $connection = new mysqli($servername, $username, $password, $database);

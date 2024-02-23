@@ -1,17 +1,11 @@
 <!DOCTYPE html>
-<!-- The DOCTYPE declaration defines this document to be HTML5 -->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <!-- The above meta tag defines the character encoding for this HTML document to be UTF-8 -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- The viewport tag ensures your site is responsive on all devices -->
     <title>CRUD</title>
-    <!-- Sets the title of your web page that appears in the browser tab -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
-    <!-- This link imports Bootstrap CSS for styling your web page -->
     <style>
-        /* Internal CSS for custom styling */
         .navbar-custom {
             background-color: green; /* Custom background color for navbar */
         }
